@@ -1,0 +1,12 @@
+
+user_input.json
+user_input.json
+user_input.json
+*.pyc
+*.pyc
+*.spec
+build/
+dist/
+config.json
+*.pyc
+__pycache__/booker.cpython-312.pyc
